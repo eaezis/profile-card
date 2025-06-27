@@ -27,7 +27,7 @@ Este repositório contém um cartão de perfil simples, criado com HTML e CSS, v
 
 ### 🗓️ Histórico
 
-- **27/06/2025** – Criação do repositório e desenvolvimento inicial do cartão.
+- **23/06/2025** – Criação do repositório e desenvolvimento inicial do cartão.
 - **27/06/2025** – Publicação no GitHub Pages.
 
 ---
